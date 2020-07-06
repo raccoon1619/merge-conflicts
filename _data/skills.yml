@@ -1,9 +1,21 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+# Responsibility
+- skill: Responsibility
+  description: All laboratory work at the university did on time without delays. I completed the individual task on industrial practice from the university on time.
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Hard-working
+- skill: Hard-working
+  description: Every day I spend 4 hours to improve programming skills. I read technical literature on topics that interest me. I develop projects in my free time.
+
+# Good theoretical and practical background
+- skill: Good theoretical and practical background
+  description: I can create simple web applications using frameworks such as React, Express, jQuery, etc.
+
+# Good learning skill
+- skill: Good learning
+  description: Learn new technologies and methods quickly and easily. At the university I try to understand each subject as much as possible.
+
+# Teamwork 
+- skill: Teamwork 
+  description: I work well in any team. Easy to communicate with other people. I try to prove myself when possible.
